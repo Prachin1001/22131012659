@@ -1,0 +1,18 @@
+{
+  "name": "22131012659",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1",
+    "node-cache": "^5.1.2",
+    "node-cron": "^4.1.1"
+  }
+}
